@@ -1,0 +1,14 @@
+Django>=4.0,<5.0
+djangorestframework
+elasticsearch
+elasticsearch-dsl
+django-elasticsearch-dsl
+celery
+redis
+psycopg2
+selenium
+beautifulsoup4
+seleniumbase
+djangorestframework_simplejwt
+django-cors-headers
+fake-useragent
