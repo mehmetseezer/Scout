@@ -1,4 +1,4 @@
-![Scout Logo](logo.svg)
+![Scout Logo](./sources/logo.svg)
 # Scout - Medium İçerik Keşif Platformu
 
 **Scout**, Medium kullanıcılarının blog verilerini otomatik olarak toplayıp analiz eden, mikroservis tabanlı bir veri platformudur. Gerçek zamanlı işlem yetenekleri ve Türkçe dil desteğiyle gelişmiş arama deneyimi sunar.
@@ -14,7 +14,7 @@
 
 ### 1. Projeyi GitHub'dan klonla
 ```bash
-git clone https://github.com/sizin-kullanici-adiniz/scout.git
+git clone https://github.com/mehmetseezer/scout.git
 cd scout
 ```
 
